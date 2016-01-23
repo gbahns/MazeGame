@@ -185,6 +185,7 @@
     <Compile Include="Model\Persons\Monster.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Model\SquareMase.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
